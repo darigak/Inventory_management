@@ -15,7 +15,7 @@ They asked to review their historical sales data for 2020 calendar year, group i
 
 1/1/2020 - 12/13/2020 sales data was provided by the business owner that contained details about date items were sold on, quantities sold and generalized shipping information.
 
-Additionally, detailed item descriptions were obtained from Etsy API. Descriptions included item titles, descriptions, tags used to search for items on the website, number of views and favorers on Etsy. Tags were later used to group items into categories; 12 categories in total.
+Additionally, detailed item descriptions were obtained from <a href="https://www.etsy.com/developers/documentation/getting_started/api_basics">Etsy API</a>. Descriptions included item titles, descriptions, tags used to search for items on the website, number of views and favorers on Etsy. Tags were later used to group items into categories; 12 categories in total.
 
 As an example, let's focus our analysis on category 1 to determine the best algorithm to predict future demand.
 
