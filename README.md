@@ -41,10 +41,11 @@ LSTM model with look_back=14 has the best train/test RMSE results. We can fit ou
 - Add LSTM with Conv1D model
 
 # Repository Structure
-- **data** folder contains Zillow Research dataset.
 
 - **images** folder contains images used in README.md and presentation.
 
-- **Forecasting_real_estate_prices_presentation.pdf** contains the final presentation.
+- **Category_1_presentation.pdf** contains presentation of the modeling process for category 1.
 
-- **notebook_Final.ipynb** notebook contains the final modeling process.
+- **notebook_EDA&visualizations.ipynb** notebook contains project EDA and visualizations.
+
+- **nnotebook_category_1.ipynb** notebook contains the modeling process for category 1.
