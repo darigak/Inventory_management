@@ -49,6 +49,8 @@ LSTM model with look_back=14 has the best train/test RMSE results. We can fit ou
 
 - **Category_1_presentation.pdf** contains presentation of the modeling process for category 1.
 
+- **google_API_notebook.ipynb** notebook contains results from Google Trends.
+
 - **notebook_EDA&visualizations.ipynb** notebook contains project EDA and visualizations.
 
-- **nnotebook_category_1.ipynb** notebook contains the modeling process for category 1.
+- **notebook_category_1.ipynb** notebook contains the modeling process for category 1.
